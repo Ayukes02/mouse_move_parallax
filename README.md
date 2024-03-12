@@ -1,1 +1,2 @@
-# mouse_move_parallax
+# MouseMoveParallax
+A mouseMove Parallax webspage created using html, CSS and Javascript
